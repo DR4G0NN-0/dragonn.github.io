@@ -6,20 +6,51 @@
  ||  )) ||_// ||=|| (( ___ ((   )) ||\\|| ||\\||
  ||_//  || \\ || ||  \\_||  \\_//  || \|| || \||
                                                 
-		🐉 Dragonn's Introduction 🐉
+	✨🌌🐉 Dragonn's Introduction 🐉✨🌌
 
-Hello! I'm Dragonn,and I'm thrilled to meet you. A tech enthusiast with a passion for coding and creativity. Currently Learning Japanese. With a background in:
-This is a ReadMe file for myintroduction's sake.
-I believe in the power of innovation and collaborative problem-solving. Let's connect and embark on exciting projects together!
+🌠🍙🌸 Café Owner Name: Dragonn
+🌟🍡 Origin: Earth
+🪐 Anime Aesthetic: Male
+💫 Kawaii Pronouns: he
+🌌 Age of Anime Adventure: more than 20 years
+⭐️ Sakura Zodiac: Sagittarrius 
+🌌 Café Vibe: Embracing life's colorful episodes
+
+	🌌✨🍵 Menu of Anime Delights 🍵✨🌌
+
+🎈🍜 Noodles of Choice: Sushi and Ramen (not typical, but delicious!)
+🌙🎨 Palette of Colors: Midnight blue, Crimson Red, Royal Purple, Cherry Red
+✨🎵 Melodies of the Show: Star Wars, Avatar Cartoon, Code Geass
+🌟🎬 Feature Presentation:  Code Geass, Shiguang Dailiren, Naruto, Gintama, Nichijou, Wan sheing fei
+🌠📚 Manga Manuscripts: Nan Hao Shang Feng, "The Alchemist" by Paulo Coelho, Fullmetal Alchemist: Brotherhood,
+🚀🎮 Gamer's Corner: Blood, Project IGI, Duke Nukem, NFS, Nova Legacy, Kuboom, Hackers, Minecraft, 
+🦊🐾 Café Mascot: iykyk
+
+	🌌✨🍵 Behind the Scenes 🍵✨🌌
+
+🎂🌌 Café Anniversary: October 4th
+💌💫 Orders & Collaborations: Always welcome!
+🌠🌙 Extra Flavors: I'm also a photography enthusiast & stargazer.
+
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+"Hello, anime enthusiasts! I'm Dragonn, your café host. A coder, creator, and anime devotee. Currently exploring the world of Japanese alongside my technological quests. With a background in software magic and design wizardry, I infuse creativity into every byte. Join me in this animated journey!"
+
+        🌠🌌🌙   ⭐️✨🌟   🌌✨🍵   🌟✨⭐️   🌌🌙🌠
+       🌟     🌙        🌌   🌠     ⭐️   🌌     ⭐️
+     🌟          🌠      🌌          🌠    🌌   ⭐️
+      🌟   🌌         🌌    🌠    ✨🌟      🌌    ⭐️
+        🌠🌌🌙     🌌     ⭐️   🌌✨🍵    🌟✨⭐️
 
 
-🚀 Technical Skills:
+
+
 
 🚀 Programming: Python, C, Assembly, PLC Code
 🌐 Web Development: HTML, CSS, JavaScript
 📊 Data Analysis: Pandas, Matplotlib, Numpy, Scikit-Learn
 🔧 Tools: Git, VS Code, Nano, Vim, Tensorflow
 
+🚀 Technical Skills:
 - Programming Languages: Python, JavaScript, C
 - Web Development: HTML5, React
 - Data Science: Pandas, NumPy, Scikit-Learn
