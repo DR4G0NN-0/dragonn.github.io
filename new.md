@@ -1,0 +1,40 @@
+=========================================
+	DRAGONN's REPOSITORY
+=========================================
+ ____   ____   ___    ___    ___   __  __ __  __
+ || \\  || \\ // \\  // \\  // \\  ||\ || ||\ ||
+ ||  )) ||_// ||=|| (( ___ ((   )) ||\\|| ||\\||
+ ||_//  || \\ || ||  \\_||  \\_//  || \|| || \||
+                                                
+		🐉 Dragonn's Introduction 🐉
+
+Hello! I'm Dragonn,and I'm thrilled to meet you. A tech enthusiast with a passion for coding and creativity. Currently Learning Japanese. With a background in:
+This is a ReadMe file for myintroduction's sake.
+I believe in the power of innovation and collaborative problem-solving. Let's connect and embark on exciting projects together!
+
+
+🚀 Technical Skills:
+
+🚀 Programming: Python, C, Assembly, PLC Code
+🌐 Web Development: HTML, CSS, JavaScript
+📊 Data Analysis: Pandas, Matplotlib, Numpy, Scikit-Learn
+🔧 Tools: Git, VS Code, Nano, Vim, Tensorflow
+
+- Programming Languages: Python, JavaScript, C
+- Web Development: HTML5, React
+- Data Science: Pandas, NumPy, Scikit-Learn
+- Databases: SQL, MongoDB
+- Machine Learning: Regression, Classification
+- Version Control: Git, GitHub
+
+🌟 Professional Skills:
+- Project Management: Agile, Scrum, Kaizen
+- Problem Solving: Creative mindset
+- Communication: Clear and effective
+- Leadership: Individual vs Dual Mode Team Lead
+- Adaptability: Thriving in dynamic environments and flexibility
+- Time Management: Focused work
+
+📬 Reach out at: dr4g0nn.0@gmail.com
+💻 GitHub: github.com/DR4G0NN-0
+
